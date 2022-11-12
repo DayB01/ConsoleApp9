@@ -6,7 +6,10 @@ namespace ConsoleApp9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ti kto?");
+            *Здарова!;
+            int byte mmm = 200;
+
         }
     }
 }
